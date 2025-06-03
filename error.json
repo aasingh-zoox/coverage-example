@@ -1,5 +1,5 @@
 {
-    "error": "Invalid request: add ci coverage label to PR",
+    "error": "Invalid request: add ci coverage label to PR [docs](https://docs.google.com/document/d/1nwXLg2OJg2pB9TLon_mQwIe2WnDdtUU8LWQWg_JQEK4/edit?tab=t.0#heading=h.qjsnu9u3kmbb)",
     "coverage": {
       "filename": {
         "1": 0,      
